@@ -22,7 +22,7 @@
     "ag-grid-angular": "^23.0.2",
     "ag-grid-community": "^23.0.2",
     "angular-datatables": "^8.0.0",
-    "datatables.net": "^1.10.20",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.20",
     "jquery": "^3.4.1",
     "ng-busy": "^8.0.0",
